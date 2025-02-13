@@ -32,9 +32,9 @@ The **new and improved interface** is cleaner and smarter, making it **intuitive
 
 ## 📌 Live Sniping Example
 
-- **Buy Transaction:** [View on Solscan]()
-- **Sell Transaction:** [View on Solscan]()
-- **Track on Dexscreener:** [View Here]()
+- **Buy Transaction:** [View on Solscan](https://solscan.io/tx/3tb3dxY6j5oHhfgSidgDEfLf5MNL6pVzTDdXnh4UhNJKJF2pfp8cqtJA4v2yYAWNFgaHuVUZKR3PYrAXWnWsVrk7)
+- **Sell Transaction:** [View on Solscan](https://solscan.io/tx/2b1LKQXVpYBJhyd4fqoLikRZm99DV9q3nDYebbgZWCrzQGkWLRAzGZqgBC5FqdCYYsys7zG97N3nJym39Je3GLei)
+- **Track on Dexscreener:** [View Here](https://dexscreener.com/solana/jczkfvo2xiw6vqnc2fccmyf4i4wcbfubsbh4wcggqkkn?maker=ASVL7cSUB8qDnpMh82DQ8j8h8ivcUH662iYyQvQkTvYw)
 
 ## ⚠️ Important Notice
 Due to security concerns, the **source code is not included in this repository**.
