@@ -3,7 +3,7 @@
 ## Overview
 The **Solana Raydium Sniper Bot V2** is an enhanced and optimized version of its predecessor, delivering unparalleled **speed, efficiency, and security**. Designed for traders aiming to maximize profits, this bot introduces cutting-edge features such as **rug-pull detection, dynamic trade configurations, and smart wallet tracking**.
 
-[Video Guide](https://www.youtube.com/watch?v=_1WRXEkiKFc)
+[Youtube Video Guide](https://www.youtube.com/watch?v=_1WRXEkiKFc)
 
 ## 🔥 Key Features
 
